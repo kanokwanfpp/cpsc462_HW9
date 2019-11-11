@@ -1,0 +1,5 @@
+0101,DC,warn,nan,107/11
+0102,BL,fon,nan,6/11
+0103,Mawal,toto,nan,8/6
+
+

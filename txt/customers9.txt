@@ -1,0 +1,3 @@
+1201,nation,fon,nan,107/11
+1202,cmu,aom,nan,6/11
+1203,ut,hon,nan,8/6
